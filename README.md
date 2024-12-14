@@ -4,7 +4,9 @@ This project analyzes Chicago taxi trips for the year 2023 to uncover insights r
 
 ![Chicago-taxi-dashboard](https://github.com/user-attachments/assets/74bd8294-7f35-4975-9c44-20d85348e3fc)
 
-Analysis Link: (LINK_PLACEHOLDER)
+# Analysis
+
+For a detailed breakdown of insights, please see [Insights](./insights.md).
 
 ## Key Highlights:
 
@@ -111,6 +113,6 @@ hourly_revenue.to_csv('/content/drive/My Drive/Hourly_Revenue.csv', index=False)
 # Next Steps
 Visualization in Tableau: Import these CSVs into Tableau to create interactive dashboards.
 Analysis and Insights: Explore revenue patterns, identify high-demand zones, compare payment methods, and examine temporal trends.
-Placeholders:
 
-Analysis Link: (LINK_PLACEHOLDER)
+
+Analysis Link: [Insights](./insights.md)
